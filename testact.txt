@@ -1,6 +1,6 @@
-NAME:
-ROLL NO:
-DEPARTMENT:
-ACTIVITY:
+NAME:PRITHIV s
+ROLL NO:922525106236
+DEPARTMENT:ECE
+ACTIVITY:Git hub set up activity
 This is a test file for the GitHub Setup Activity.
 Learning GitHub repositories and file uploads.
