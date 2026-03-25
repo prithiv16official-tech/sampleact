@@ -1,2 +1,3 @@
 # sampleact
-i am ece student of vsb engineerimg college
+This is a readme file for the GitHub Setup Activity.
+Learning GitHub repositories and file uploads.
